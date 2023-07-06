@@ -2,7 +2,7 @@
 
 I am Samarth, a graduate student at Northeastern currently pursuing my Master's degree in Data Analytics Engineering at Northeastern University, Boston, MA.
 
-I completed a three-month long internship at a local company in India where I was acquainted with the basics of EDA and predictive analytics. I also completed six-months as a Artificial Intelligece Research Intern at my undergradute university where I learnt about data in depth. I also understood the significance that algorithms play in today's world. All in all, I love immersing myself in data and always digging deep to find the nichest of insights. I truly believe that a proper understanding of data can lead us to findings so meaningful that it has the power to change trajectories of companoes overnight. 
+I completed a three-month long internship at a local company in India where I was acquainted with the basics of EDA and predictive analytics. I also completed six-months as an Artificial Intelligece Research Intern at my undergradute university where I learnt about data in depth. I also understood the significance that algorithms play in today's world. All in all, I love immersing myself in data and always digging deep to find the nichest of insights. I truly believe that a proper understanding of data can lead us to findings so meaningful that it has the power to change trajectories of companoes overnight. 
 
 I have completed my undergraduate degree in Computer Science and Engineering back home in India and I have taken the following courses during my master's journey so far:
 
