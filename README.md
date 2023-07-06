@@ -9,8 +9,11 @@ I am looking forward to collaborating on projects related to data science. I lov
 I have completed my undergraduate degree in Computer Science and Engineering back home in India and I have taken the following courses during my master's journey so far:
 
 IE 6400 - Foundations of Data Analytics Engineering
+
 DAMG 6210 - Data Management and Database Design
+
 IE 6600 - Computation and Visualization for Analytics
+
 OR 6205 - Deterministic Operations Research
 
 Upcoming courses include - 
