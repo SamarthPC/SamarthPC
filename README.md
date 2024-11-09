@@ -14,7 +14,7 @@ Equipped with a degree in Computer Science and Engineering from India, I've hone
 - EMGT 5220 - Engineering Project Management
 - EMGT 6305 - Financial Management for Engineers
 
-I am actively seeking full-time opportunities in the field of data space. My passion lies in solving real-world problems by leveraging modern tools and technologies to extract meaningful insights from data. I specialize in applying machine learning algorithms to datasets and presenting findings in a precise yet visually compelling manner.
+I am actively seeking full-time opportunities in the data space. My passion lies in solving real-world problems by leveraging modern tools and technologies to extract meaningful insights from data. I specialize in applying machine learning algorithms to datasets and presenting findings in a precise yet visually compelling manner.
 
 I am eager to collaborate with mentors, like-minded individuals, and potential collaborators who can guide me on this exciting journey into the world of data. If you have insights to share or if you're looking for a dedicated and enthusiastic team member, I'd love to connect! Feel free to reach out via email at chetan.s@northeastern.edu.
 
