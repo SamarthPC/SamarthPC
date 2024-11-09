@@ -1,10 +1,10 @@
 ### In God we trust, but everyone else must bring data! 👋
 
-Hello there! I'm Samarth, a passionate data enthusiast and a graduate student pursuing a Master's degree in Data Analytics Engineering at Northeastern University, Boston, MA.
+Hello there! I'm Samarth. I'm a data science enthusiast and have a Master's degree in Data Analytics Engineering from Northeastern University, Boston, MA.
 
-During my academic journey, I've gained hands-on experience through a couple of internships in India, where I delved into the basics of EDA and predictive analytics. Further fueling my passion, I've now spent almost a year as a Data Analyst and Solutions Architect @ Mercky, exploring the intricate world of data and recognizing the pivotal role algorithms play in today's landscape, with sustainability being one of my main focuses!
+During my academic journey, I've gained hands-on experience through a couple of internships in India, where I delved into the basics of EDA and predictive analytics. Further fueling my passion, I've now spent almost a year as a Data Analyst and Solutions Architect @ Merck, exploring the intricate world of data and recognizing the pivotal role data plays in today's landscape, with sustainability being one of my main focuses!
 
-Equipped with a degree in Computer Science and Engineering from India, I've honed my skills through relevant coursework, including:
+Equipped with a degree in Computer Science and Engineering from India, I've honed my skills through relevant coursework during my PG degree, including:
 - IE 6400 - Foundations of Data Analytics Engineering
 - IE 6600 - Computation and Visualization for Analytics
 - IE 7275 - Data Mining in Engineering
